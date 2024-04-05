@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Alejandro 😁</h1>
 <h3 align="center">A passionate web developer crafting digital solutions with precision & dedication.</h3>
-<img align="right" width="50%" src="https://i.postimg.cc/QtXTZxhP/drawing.png">
+<img align="right" width="50%" src="https://i.postimg.cc/J4WcpmBf/alejandropj.png">
 <h3 align="left">About me</h3>
 <ul>
   <li>📚💻 Always willing to learn more</li>
