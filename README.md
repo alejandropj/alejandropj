@@ -4,7 +4,7 @@
 <h3 align="left">About me</h3>
 <ul>
   <li>📚💻 Always willing to learn more</li>
-  <li>💙🔍 Currently studying -> Microsoft Power Platforms & SharePoint </li>
+  <li>💙🔍 Currently working -> Microsoft Power Platform </li>
   <li>🤝🙌 I'm looking to collaborate on amazing projects in the future and be part of a incredible team</li>
 </ul>
 <br/>
